@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">atmatsumTodoApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_title">Todoアプリ</string>
+    <string name="view_title">タイトル: </string>
+    <string name="view_description">説明: </string>
+    <string name="placeholder">入力してください</string>
+    <string name="buttonText">Add</string>
+</resources>
